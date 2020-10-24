@@ -1,0 +1,9 @@
+export { default as LoginForm } from './LoginForm';
+export { default as DashboardComponent } from './DashboardComponent';
+export { default as MemberComponent } from './MemberComponent';
+export { default as TransaksiComponent } from './TransaksiComponent';
+export { default as PenarikanComponent } from './PenarikanComponent';
+export { default as LaporanComponent } from './LaporanComponent';
+export { default as RewardComponent } from './RewardComponent';
+export { default as Footer } from './Footer';
+export { default as VideosComponent } from './VideosComponent';
